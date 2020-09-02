@@ -1,0 +1,23 @@
+{
+  "name": "@ridgebox/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config of Ridgebox.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridgebox/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "ridgebox"
+  ],
+  "author": "Georgiy Tarasov <georgiy@ridgebox.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ridgebox/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ridgebox/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "^2.1.1"
+  }
+}
